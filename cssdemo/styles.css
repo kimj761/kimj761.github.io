@@ -1,0 +1,14 @@
+p {   
+    color: pink;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: helvetica, arial, sans-serif;
+}
+
+.special {
+    color: red 
+}
+
+#first {
+    color: cyan; 
+}
