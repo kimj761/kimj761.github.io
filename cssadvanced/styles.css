@@ -1,9 +1,37 @@
 body {
-        background-color: red;
+        background-color: white;
         color: white;
         font-size: 60px;
 }
 
+.box {
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: black;
+    width: 350px;
+    height: 350px;
+}
+
+.box2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    width: 350px;
+    height: 350px;
+}
+
+.box3 {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    background-color: AFCFEF;
+    width: 545px;
+    height: 35px;
+}
+
+}
 .circle {
     width: 100px;
     height: 100px;
@@ -11,7 +39,7 @@ body {
     background-color: blue; 
 }
 
-div {
+xdiv {
     width: 200px;
     height: 200px;
     border-radius: 100%
@@ -26,7 +54,7 @@ div {
     width: 400px;
 }
 
-.cirlce {
+.cirlce2 {
     background-color: blue; 
     width:100px;
     height:100px;
@@ -36,7 +64,7 @@ div {
     left: 40px;
 }
 
-.cirlce2 {
+.cirlce3 {
     background-color: orange; 
     width:100px;
     height:100px;
@@ -47,11 +75,6 @@ div {
 }
 
 a {
-    color: white;
+    color: green;
     text-decoration: none;
-}
-
-a:hover {
-    color: black;
-    font-size: 50px;
 }
