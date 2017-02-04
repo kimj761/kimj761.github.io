@@ -1,0 +1,65 @@
+body {
+    font-size: 0;
+}
+
+.button {
+    background-color: #9FFFCF;
+    transition: background-color 0.5s;
+    height: 40px;
+    width: 40px;
+    border-radius: 0%;
+    text-align: center;
+    display: inline-block;
+    }
+    
+.button:hover {
+    background-color: #D9FFDB;
+    width: 40px;
+    height: 40px;
+    line-height: 300px;
+    animation-name: example;
+    animation-duration: 10s;
+    }
+    
+.button2 {
+    background-color: #9FFFCF;
+    transition: background-color 0.7s;
+    height: 40px;
+    width: 40px;
+    border-radius: 0%;
+    text-align: center;
+    display: inline-block;
+    }
+    
+.button2:hover {
+    background-color: #ff1b00;
+    width: 40px;
+    height: 40px;
+    line-height: 300px;
+    animation-name: example;
+    animation-duration: 10s;
+    }
+    
+x@keyframes example {
+    0% {
+        background-color: #9FFFCF;
+    }
+    20% {
+        background-color: yellow;
+    }
+    40% {
+        background-color: lime;
+    }
+    50% {
+        background-color: cyan;
+    }
+    60% {
+        background-color: lime;
+    }
+    80% {
+        background-color: yellow;
+    }
+    100% {
+        background-color: #9FFFCF;
+    }
+}

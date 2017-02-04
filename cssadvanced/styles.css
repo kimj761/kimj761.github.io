@@ -9,7 +9,7 @@
     top:0;
     right: 0;
     background-color: black;
-    width: 350px;
+    width: 24%;
     height: 350px;
 }
 
@@ -18,7 +18,7 @@
     bottom: 0;
     left: 0;
     background-color: black;
-    width: 350px;
+    width: 24%;
     height: 350px;
 }
 
@@ -27,7 +27,7 @@
     top: 130px;
     left: 0;
     background-color: #AFCFEF;
-    width: 545px;
+    width: 40%;
     height: 35px;
 }
 
@@ -45,7 +45,7 @@
     bottom: 270px;
     right: 0;
     background-color: #FF8D27;
-    width: 1089px;
+    width: 70%;
     height: 35px;
 }
 
@@ -54,7 +54,7 @@
     bottom: 155px;
     right: 0;
     background-color: #E8CF92;
-    width: 1089px;
+    width: 76%;
     height: 35px;
 }
 
@@ -63,7 +63,7 @@
     bottom: 40px;
     right: 0;
     background-color: #F9D7F9;
-    width: 1089px;
+    width: 76%;
     height: 35px;
 }
 
