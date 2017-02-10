@@ -1,0 +1,53 @@
+x.button {
+    background-color: blue;
+    height: 200px;
+    width:200px;
+    border-radius: 100%;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 200px;
+    color: blue;
+    text-align: center;
+    animation: color-animation 4s infinite linear alternate;
+    animation-iteration-count: infinite;
+
+    }
+    
+.button {
+    background-color: #E6FBFF;
+    animation: bgColor 13s infinite linear;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+
+
+@keyframes bgColor {
+  12.5% {
+    background-color: #E6FBFF;
+  }
+  25% {
+    background-color: #B3FFEB;
+  }
+  37.5% {
+    background-color: #F6FFB8;
+  }
+  50% {
+    background-color: #FFDCF8;
+  }
+  62.5% {
+    background-color: #E7CFFF;
+  }
+  75% {
+    background-color: #F6FFB8;
+  }
+  87.5% {
+    background-color: #B3FFEB;
+  }
+  100% {
+    background-color: #E6FBFF;
+  }
+}
