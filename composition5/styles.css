@@ -1,0 +1,46 @@
+.box{
+	width:200px;
+	height:200px;
+	position:relative;
+    top:50%;
+    left:40%;
+}
+
+.box:hover{
+   background-color: black;
+}
+
+.one{
+	background:#2B2B2B;
+}
+
+.two{
+	background:#494949;
+}
+.three{
+	background:#B7B7B7;
+}
+.four{
+	background:#EFEFEF;
+}
+.five{
+	background:#F2F2F2;
+}
+.six{
+	background:#FFFFFF;
+}
+.seven{
+	background:#F2F2F2;
+}
+.eight{
+	background:#EFEFEF;
+}
+.nine{
+	background:#B7B7B7;
+}
+.ten{
+	background:#494949;
+}
+.eleven{
+	background:#2B2B2B;
+}

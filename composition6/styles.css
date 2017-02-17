@@ -1,0 +1,39 @@
+.image{
+    width: 300px;
+    height: 300px;
+    position :relative;
+    margin-top: 200px;
+    margin-left: 270px;
+    
+}
+
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #FF83FF;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 330px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+.button:hover {background-color: #FF83FF}
+
+.button:active {
+    background-color: #EA63EA;
+    box-shadow: 0 5px #D6D6D6;
+    transform: translateY(4px);
+    position: absolute;
+}
+
+xxsection {
+    margin-top: 200px;
+    margin-left: 270px;
+    position: absolute;
+}
